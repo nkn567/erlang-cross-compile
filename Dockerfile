@@ -15,7 +15,7 @@ ENV REFRESHED_AT 2021-09-29
 # ENV REFRESHED_AT 2021-04-27
 
 # Environment
-ARG HOST_ARCH=x86_64
+ARG HOST_ARCH=linux-aarch64
 ARG TARGET_PLATFORM=arm-unknown-linux-gnueabihf
 
 # Erlang environment
