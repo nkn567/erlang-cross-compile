@@ -15,7 +15,7 @@ ENV REFRESHED_AT 2021-09-29
 # ENV REFRESHED_AT 2021-04-27
 
 # Environment
-ARG HOST_ARCH=armv7
+ARG HOST_ARCH=aarch32
 ARG TARGET_PLATFORM=arm-unknown-linux-gnueabihf
 
 # Erlang environment
